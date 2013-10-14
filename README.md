@@ -12,6 +12,7 @@ Credits
 
 Working With Files
 ------------------
+* Ensure you install the font from the provided zipfile.
 * Download [Inkscape](http://inkscape.org/). I used the [portable version](http://portableapps.com/apps/graphics_pictures/inkscape_portable) on Windows.
 * Open agile\_staffs_brandings.svg
 * Export to the size you require.
